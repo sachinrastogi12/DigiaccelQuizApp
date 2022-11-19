@@ -7,5 +7,5 @@
 
 # To run the app
 
-* Run the commands
+* Run the commands below 
 * npm install & npm start for both client and backend 
